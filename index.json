@@ -11,13 +11,13 @@
         "name": "SsComic",
         "packageName": "eu.kanade.tachiyomi.extension.zh.sscomic",
         "resources": {
-          "apkUrl": "https://teng662858.github.io/sscomic-tachimanga/apk/sscomic-v1.4.1.apk",
+          "apkUrl": "https://teng662858.github.io/sscomic-tachimanga/apk/sscomic-v1.4.2.apk",
           "iconUrl": "https://sscomic.top/sslogo.png",
-          "jarUrl": "https://teng662858.github.io/sscomic-tachimanga/apk/sscomic-v1.4.1.jar"
+          "jarUrl": "https://teng662858.github.io/sscomic-tachimanga/apk/sscomic-v1.4.2.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "versionCode": "2",
+        "versionName": "1.4.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
