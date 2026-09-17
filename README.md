@@ -1,6 +1,11 @@
-# 涩涩漫画（sscomic.top）— Tachimanga 扩展仓库
+# 中文漫画源 — Tachimanga 扩展仓库
 
-给 iOS/macOS 的 [Tachimanga](https://tachimanga.app/) 用的非官方扩展仓库。
+给 iOS/macOS 的 [Tachimanga](https://tachimanga.app/) 用的非官方扩展仓库。当前收录：
+
+| 扩展 | 源 | 站点 | 版本 |
+|---|---|---|---|
+| SsComic | 涩涩漫画 | sscomic.top | 1.4.2 |
+| K漫画 | K漫画 | kmh001.net | 1.4.1 |
 
 ## 安装
 
