@@ -4,23 +4,27 @@
 
 ## 安装
 
-Tachimanga 里 **更多 → 扩展 → 扩展仓库 → 添加**，填下面任意一条：
+Tachimanga 里 **更多 → 扩展 → 扩展仓库 → 添加**，填这条：
 
 ```text
-https://teng662858.github.io/sscomic-tachimanga/index.pb
+https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/index.pb
 ```
 
-新版客户端走 `index.pb`（含明确的 jarUrl）；老版本不认的话用兼容入口：
+不认 `index.pb` 的老版本客户端用兼容入口：
 
 ```text
-https://teng662858.github.io/sscomic-tachimanga/index.min.json
+https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/index.min.json
 ```
 
-`raw.githubusercontent.com` 的同类地址也能用（把上面两条的 `https://teng662858.github.io/sscomic-tachimanga/` 换成 `https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/`），国内哪个能连上用哪个。
+> **为什么用 raw 而不是 GitHub Pages**：国内网络下 `github.io` 基本连不上（PC 走代理能通、手机常常不行），而 `raw.githubusercontent.com` 一般能通——你已有的那些仓库也都在 raw 上，所以以它为准。
+> 备用镜像（jsDelivr，同样是本仓库的内容）：
+> ```text
+> https://cdn.jsdelivr.net/gh/teng662858/sscomic-tachimanga@main/index.pb
+> ```
 
 添加后回到扩展页刷新，安装「SsComic」即可；源的名字在 App 里显示为**涩涩漫画**。
 
-> iOS 端 Tachimanga 下载的是 `jarUrl`（不是 apkUrl）。本仓库两者指向同一个文件——那是一个「APK 形态的 JAR」：文本 AndroidManifest.xml + JVM .class，这也是 iOS 端能直接加载的形式。
+> iOS 端 Tachimanga 下载的是 `jarUrl`（不是 apkUrl）。本仓库两者都有：`.apk` 给安卓阅读器（Mihon 等），`.jar` 给 iOS 的 Tachimanga。JAR 是「文本 AndroidManifest.xml + JVM .class」的形式，这也是 iOS 端能直接加载的形态。
 
 ## 不可变的三样东西
 
