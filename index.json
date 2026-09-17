@@ -1,6 +1,6 @@
 {
-  "name": "SsComic Tachimanga Extensions",
-  "badgeLabel": "SSCOMIC",
+  "name": "Manga Sources for Tachimanga",
+  "badgeLabel": "CN",
   "signingKey": "6e08dd197ec331011d131859ce401ab504a68662cd3cc621570f336fe61db137",
   "contact": {
     "website": "https://github.com/teng662858/sscomic-tachimanga"
@@ -25,6 +25,27 @@
             "name": "涩涩漫画",
             "language": "zh",
             "homeUrl": "https://sscomic.top"
+          }
+        ]
+      },
+      {
+        "name": "K漫画",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.kmh001",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kmh001-v1.4.1.apk",
+          "iconUrl": "https://kmh001.net/android-icon-192x192.png",
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kmh001-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6022597272291034945",
+            "name": "K漫画",
+            "language": "zh",
+            "homeUrl": "https://kmh001.net"
           }
         ]
       }
