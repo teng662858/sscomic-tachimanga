@@ -1,0 +1,33 @@
+{
+  "name": "SsComic Tachimanga Extensions",
+  "badgeLabel": "SSCOMIC",
+  "signingKey": "6e08dd197ec331011d131859ce401ab504a68662cd3cc621570f336fe61db137",
+  "contact": {
+    "website": "https://github.com/teng662858/sscomic-tachimanga"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "SsComic",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.sscomic",
+        "resources": {
+          "apkUrl": "https://teng662858.github.io/sscomic-tachimanga/apk/sscomic-v1.4.1.jar",
+          "iconUrl": "https://sscomic.top/sslogo.png",
+          "jarUrl": "https://teng662858.github.io/sscomic-tachimanga/apk/sscomic-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2587594711397904199",
+            "name": "涩涩漫画",
+            "language": "zh",
+            "homeUrl": "https://sscomic.top"
+          }
+        ]
+      }
+    ]
+  }
+}
