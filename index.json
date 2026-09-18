@@ -91,13 +91,13 @@
         "name": "七七韩漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.qqhanman",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/qqhanman-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/qqhanman-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/qqhanman.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/qqhanman-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/qqhanman-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -112,13 +112,13 @@
         "name": "妖精韩漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.yaojinghanman",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/yaojinghanman-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/yaojinghanman-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/yaojinghanman.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/yaojinghanman-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/yaojinghanman-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -133,13 +133,13 @@
         "name": "禁漫大王",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jmdw8",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmdw8-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmdw8-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/jmdw8.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmdw8-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmdw8-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -154,13 +154,13 @@
         "name": "禁漫岛",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jmd91",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmd91-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmd91-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/jmd91.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmd91-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jmd91-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -175,13 +175,13 @@
         "name": "龙禁漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.long91",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/long91-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/long91-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/long91.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/long91-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/long91-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -196,13 +196,13 @@
         "name": "黄漫天堂",
         "packageName": "eu.kanade.tachiyomi.extension.zh.hman91",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/hman91-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/hman91-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/hman91.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/hman91-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/hman91-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -217,13 +217,13 @@
         "name": "18禁漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jm18",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jm18-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jm18-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/jm18.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jm18-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/jm18-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -238,13 +238,13 @@
         "name": "X漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.xman92",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/xman92-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/xman92-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/xman92.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/xman92-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/xman92-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -259,13 +259,13 @@
         "name": "鸟鸟韩漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.nnhm91",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/nnhm91-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/nnhm91-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/nnhm91.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/nnhm91-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/nnhm91-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -280,13 +280,13 @@
         "name": "开心看漫画",
         "packageName": "eu.kanade.tachiyomi.extension.zh.kxmanhua",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kxmanhua-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kxmanhua-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/kxmanhua.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kxmanhua-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kxmanhua-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -301,13 +301,13 @@
         "name": "万年漫画",
         "packageName": "eu.kanade.tachiyomi.extension.zh.wnian001",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/wnian001-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/wnian001-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/wnian001.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/wnian001-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/wnian001-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -322,13 +322,13 @@
         "name": "P5韩漫",
         "packageName": "eu.kanade.tachiyomi.extension.zh.p5mh",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/p5mh-v1.0.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/p5mh-v1.0.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/p5mh.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/p5mh-v1.0.8.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/p5mh-v1.0.9.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.8",
+        "versionCode": "9",
+        "versionName": "1.0.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
