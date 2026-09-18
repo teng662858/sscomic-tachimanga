@@ -11,13 +11,13 @@
         "name": "SsComic",
         "packageName": "eu.kanade.tachiyomi.extension.zh.sscomic",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/sscomic-v1.4.16.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/sscomic-v1.4.17.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/sscomic.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/sscomic-v1.4.16.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/sscomic-v1.4.17.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "16",
-        "versionName": "1.4.16",
+        "versionCode": "17",
+        "versionName": "1.4.17",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -35,13 +35,13 @@
         "name": "K漫画",
         "packageName": "eu.kanade.tachiyomi.extension.zh.kmh001",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kmh001-v1.4.17.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kmh001-v1.4.18.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/kmh001.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kmh001-v1.4.17.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/kmh001-v1.4.18.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "17",
-        "versionName": "1.4.17",
+        "versionCode": "18",
+        "versionName": "1.4.18",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -64,13 +64,13 @@
         "name": "BAKA MH",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bakamhcn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.18.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.19.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/bakamh.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.18.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.19.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "versionCode": "19",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
