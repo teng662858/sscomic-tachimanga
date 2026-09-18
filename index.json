@@ -64,13 +64,13 @@
         "name": "BAKA MH",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bakamhcn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.27.apk",
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.28.apk",
           "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/bakamh.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.27.jar"
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/bakamhcn-v1.4.28.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "27",
-        "versionName": "1.4.27",
+        "versionCode": "28",
+        "versionName": "1.4.28",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
