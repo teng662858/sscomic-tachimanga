@@ -277,27 +277,6 @@
         ]
       },
       {
-        "name": "爱看漫画",
-        "packageName": "eu.kanade.tachiyomi.extension.zh.ikanmanhua",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/ikanmanhua-v1.0.7.apk",
-          "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/ikanmanhua.png",
-          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/ikanmanhua-v1.0.7.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.0.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "173562362160580937",
-            "name": "爱看漫画",
-            "language": "zh",
-            "homeUrl": "https://ikanmanhua.org"
-          }
-        ]
-      },
-      {
         "name": "开心看漫画",
         "packageName": "eu.kanade.tachiyomi.extension.zh.kxmanhua",
         "resources": {
