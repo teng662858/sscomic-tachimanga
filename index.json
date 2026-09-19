@@ -341,6 +341,31 @@
             ]
           }
         ]
+      },
+      {
+        "name": "漫香阁",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.mxgmxg",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/mxgmxg-v1.0.0.apk",
+          "iconUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/icons/mxgmxg.png",
+          "jarUrl": "https://raw.githubusercontent.com/teng662858/sscomic-tachimanga/refs/heads/main/apk/mxgmxg-v1.0.0.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.0.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "91954421143997063",
+            "name": "漫香阁",
+            "language": "zh",
+            "homeUrl": "https://mxgmxg.com",
+            "mirrorUrls": [
+              "https://www.mxgmxg.com",
+              "https://xn--wgv69rba1382b.com"
+            ]
+          }
+        ]
       }
     ]
   }
